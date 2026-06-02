@@ -2,7 +2,7 @@
 
 Official implementation accompanying the paper:
 
-**“Freezing or Adapting? A Systematic Benchmark of Batch Normalization Strategies for Fine-Tuning Self-Supervised Time Series Classifiers”**
+**“When Batch Normalization Breaks Self-Supervised Time Series Fine-Tuning: A Systematic Study of Optimization Collapse”**
 
 This repository provides the code used to reproduce the experiments and analyses presented in the paper, including the large-scale benchmark of Batch Normalization (BN) strategies for fine-tuning self-supervised time series classification models.
 
