@@ -1,4 +1,4 @@
-# BN-Strategies: Batch Normalization Strategies for Fine-Tuning Self-Supervised Time Series Classifiers
+# When Batch Normalization Breaks Self-Supervised Time Series Fine-Tuning: A Systematic Study of Optimization Collapse
 
 Official implementation accompanying the paper:
 
